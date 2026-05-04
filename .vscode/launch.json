@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/nestorxx-xx/Library/Mobile Documents/com~apple~CloudDocs/USA/BYU-I/Classes/Block 7 (May-Jun 2026)/CSE310 - Applied Programming/module_1_cpp",
+      "program": "/Users/nestorxx-xx/Library/Mobile Documents/com~apple~CloudDocs/USA/BYU-I/Classes/Block 7 (May-Jun 2026)/CSE310 - Applied Programming/module_1_cpp/build/Debug/outDebug"
+    }
+  ]
+}
